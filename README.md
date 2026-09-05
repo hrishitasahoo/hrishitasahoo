@@ -1,10 +1,15 @@
 
 ## ABOUT ME
 ✦ I’m currently working on Front-End Development
+
 ✦ I’m currently learning JavaScript
+
 ✦ Ask me about Java and MySQL
+
 ✦ Leveling up my back-end skills
+
 ✦ Exploring new technologies & ideas
+
 ✦ Goal: Learn - Build - Improve
 
 
